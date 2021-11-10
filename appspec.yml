@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: LifeStyle/index.php
+  - source: LifestyleStore/index.php
     destination: /var/www/html/
 hooks:
   BeforeInstall:

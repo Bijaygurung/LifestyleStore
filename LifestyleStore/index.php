@@ -18,6 +18,7 @@ session_start();
         <link rel="stylesheet" href="css/style.css" type="text/css">
     </head>
     <body>
+        <h3> This website is published for Educational purposes. All the rights are reserved by the Progammer of this website</h3>
         <div>
            <?php
             require 'header.php';

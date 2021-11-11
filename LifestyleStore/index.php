@@ -56,7 +56,7 @@ session_start();
                            <center>
                                 <div class="caption">
                                     <p id="autoResize">Watches</p>
-                                    <p>Original watches from the best brands.</p>
+                                    <p>Original watches from the best brand.</p>
                                 </div>
                            </center>
                        </div>
